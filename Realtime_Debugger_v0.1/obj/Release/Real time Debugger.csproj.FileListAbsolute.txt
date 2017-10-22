@@ -1,0 +1,61 @@
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.exe.config
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.UI.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.xml
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.Util.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.Util.xml
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\cvextern.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_calib3d220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_contrib220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_core220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_features2d220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_ffmpeg220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_flann220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_gpu220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_highgui220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_imgproc220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_legacy220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_ml220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_objdetect220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_video220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Resources\1.png
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Resources\Untitled.png
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.exe
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.pdb
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\ZedGraph.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Real time Debugger.csprojResolveAssemblyReference.cache
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Realtime_Debugger_v0._1.Rrealtime_Debugger.resources
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Realtime_Debugger_v0._1.Properties.Resources.resources
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Real time Debugger.csproj.GenerateResource.Cache
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\PRCLAB RTC.exe
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\PRCLAB RTC.pdb
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.UI.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.CV.xml
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.Util.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Emgu.Util.xml
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\cvextern.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_calib3d220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_contrib220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_core220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_features2d220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_ffmpeg220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_flann220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_gpu220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_highgui220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_imgproc220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_legacy220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_ml220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_objdetect220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\opencv_video220.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Resources\1.png
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\Resources\Untitled.png
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.exe.config
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.exe
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\PRCLAB RTC.pdb
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Release\ZedGraph.dll
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Realtime_Debugger_v0._1.Rrealtime_Debugger.resources
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Realtime_Debugger_v0._1.Properties.Resources.resources
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\Real time Debugger.csproj.GenerateResource.Cache
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\PRCLAB RTC.exe
+D:\Taqvazadeh's Files\Projects\Programming\visual studio\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Release\PRCLAB RTC.pdb

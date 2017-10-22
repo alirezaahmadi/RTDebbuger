@@ -1,0 +1,63 @@
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.csprojResolveAssemblyReference.cache
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Realtime_Debugger_v0._1.Rrealtime_Debugger.resources
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.csproj.GenerateResource.Cache
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.pdb
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.exe.config
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.exe
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.UI.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.xml
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.Util.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.Util.xml
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\cvextern.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_calib3d220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_contrib220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_core220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_features2d220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_ffmpeg220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_flann220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_gpu220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_highgui220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_imgproc220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_legacy220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_ml220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_objdetect220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_video220.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.exe
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.pdb
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\ZedGraph.dll
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Realtime_Debugger_v0._1.Properties.Resources.resources
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Resources\1.png
+\\psf\Google Drive\PishRobot\Shared folder PishRobot\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Resources\Untitled.png
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.exe.config
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.exe
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.pdb
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\cvextern.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.CV.xml
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.Util.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Emgu.Util.xml
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_calib3d220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_contrib220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_core220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_features2d220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_flann220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_gpu220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_highgui220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_imgproc220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_legacy220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_ml220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_objdetect220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\opencv_video220.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Resources\1.png
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Resources\Untitled.png
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.exe
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\Real time Debugger.pdb
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\ZedGraph.dll
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.csprojResolveAssemblyReference.cache
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Realtime_Debugger_v0._1.Rrealtime_Debugger.resources
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Realtime_Debugger_v0._1.Properties.Resources.resources
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\obj\Debug\Real time Debugger.csproj.GenerateResource.Cache
+C:\Users\Taghvazadeh\Google Drive\Realtime_Debugger\Realtime_Debugger\Realtime_Debugger_v0.1\bin\Debug\PRCLAB RTC.exe.config
